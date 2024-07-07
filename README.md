@@ -1,2 +1,2 @@
-# StyleGAN Salon: Multi-View Latent Optimization for Pose-Invariant Hairstyle Transfer
-Website for StyleGAN Salon: Multi-View Latent Optimization for Pose-Invariant Hairstyle Transfer
+# HairFastGAN: Realistic and Robust Hair Transfer with a Fast Encoder-Based Approach
+Website for HairFastGAN: Realistic and Robust Hair Transfer with a Fast Encoder-Based Approach
