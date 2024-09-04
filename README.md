@@ -13,6 +13,8 @@ Image와 Text를 기반으로 나에게 어울리는 Hair를 체험해보세요.
 
 1. 아래 링크를 통해 Colab을 실행
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuhongPark/MirrorMirrorGAN/blob/app/app/MirrorMirrorGAN_Application.ipynb)
+
 2. Model Load를 클릭하여 Environment 설정 - T4 GPU 기준 12분 가량 소요
 
 ## 2.1 이미지 생성 방법 (Image 기반)
