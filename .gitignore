@@ -152,7 +152,6 @@ test_coef/*.png
 **/*.npz
 **/*.pth
 **/*.mp4
-**/*.ipynb
 **/*.dat
 **/*.bz2
 !/models/sean_codes/styles_test/**/*.npy
