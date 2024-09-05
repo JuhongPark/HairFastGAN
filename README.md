@@ -1,5 +1,7 @@
 # Mirror Mirror GAN
 
+<img src="https://i.postimg.cc/4dy2WY1T/temp-Image-Lnvbb-F.avif" width="300"/>
+
 Mirror Mirror GAN은 새로운 Hair Style을 체험해볼 수 있는 어플리케이션입니다
 
 Image와 Text를 기반으로 나에게 어울리는 Hair를 체험해보세요.
