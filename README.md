@@ -8,7 +8,7 @@ Image와 Text를 기반으로 나에게 어울리는 Hair를 체험해보세요.
 
 본 어플리케이션은 [Hair Fast GAN](https://arxiv.org/abs/2404.01094)과 [Stable Diffusion](https://arxiv.org/abs/2112.10752)을 활용하여 개발되었습니다.
 
-<span style="color:red">* Chrome 사용 권장 (Safari 웹 호환성 에러 발생) * </span>
+🚨 Chrome 사용 권장 (Safari 웹 호환성 에러 발생) 🚨
 
 ## 1. Setting 방법
 
