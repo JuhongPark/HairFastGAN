@@ -14,29 +14,39 @@ Image와 Text를 기반으로 나에게 어울리는 Hair를 체험해보세요.
 
 1. 아래 링크를 통해 Colab을 실행
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuhongPark/MirrorMirrorGAN/blob/app/app/MirrorMirrorGAN_Application.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuhongPark/MirrorMirrorGAN/blob/app/app/MirrorMirrorGAN_Application.ipynb)
 
 2. Model Load를 실행하여 Environment 설정 - T4 GPU 기준 12분 가량 소요
-![](https://i.postimg.cc/Vv4rGNsX/1.png)
+
+    <img src="https://i.postimg.cc/Vv4rGNsX/1.png" width="300"/>
 
 ## 2.1 Image 기반 Hair Style 생성 방법
 
-1. `Face 사진 업로드` 실행 후, 하단에 생성된 `Face 사진 업로드` 버튼을 클릭하여 합성할 Face 사진 업로드
-![](https://i.postimg.cc/rw2XnNbC/3.png)
-- 결과![](https://i.postimg.cc/3xjMPDQM/4.png)
+1. `Face 사진 업로드` 실행 후, 하단에 생성된 `Face 사진 업로드` 버튼을 클릭하여 합성할 Face 사진 업로드 (사진 업로드시, 매번 실행해야함)
+
+    <img src="https://i.postimg.cc/rw2XnNbC/3.png" width="300"/>
+
+    * 결과
+
+    <img src="https://i.postimg.cc/3xjMPDQM/4.png" width="300"/>
 
 2. `Shape 사진 업로드` 실행 후, 하단에 생성된 `Shape 사진 업로드` 버튼을 클릭하여 합성할 Shape 사진 업로드 (1번과 동일)
 
 3. `Color 사진 업로드` 실행 후, 하단에 생성된 `Color 사진 업로드` 버튼을 클릭하여 합성할 Color 사진 업로드 (1번과 동일)
 
-4. `Hair 이미지 생성 - 옵션 메세지 입력`의 코드 실행![](https://i.postimg.cc/hGMkGWGp/5.png)
+4. `Hair 이미지 생성 - 옵션 메세지 입력`의 코드 실행
+
+    <img src="https://i.postimg.cc/hGMkGWGp/5.png" width="300"/>
+
 
 ## 2.2 Text 기반 Hair Style 생성 방법
 
-1. `Face 사진 업로드` 실행 후, 하단에 생성된 `Face 사진 업로드` 버튼을 클릭하여 합성할 Face 사진 업로드 [(위의 Image 기반 Hari Style  동일)](#21-image-기반-hair-style-생성-방법)
+1. `Face 사진 업로드` 실행 후, 하단에 생성된 `Face 사진 업로드` 버튼을 클릭하여 합성할 Face 사진 업로드
 
-2. `Hair 이미지 생성 - 옵션 메세지 입력` 부분의 Shape에 희망하는 Hair Shape의 Text 입력
+    [(위의 Image 기반 Hair Style 생성 방법과 동일)](#21-image-기반-hair-style-생성-방법)
 
-3. `Hair 이미지 생성 - 옵션 메세지 입력` 부분의 Color에 희망하는 Hair Color의 Text 입력
+3. `Hair 이미지 생성 - 옵션 메세지 입력` 부분에 희망하는 Hair Shape의 Text 입력
 
-4. `Hair 이미지 생성 - 옵션 메세지 입력`의 코드 실행
+4. `Hair 이미지 생성 - 옵션 메세지 입력` 부분에 희망하는 Hair Color의 Text 입력
+
+5. `Hair 이미지 생성 - 옵션 메세지 입력`의 코드 실행
